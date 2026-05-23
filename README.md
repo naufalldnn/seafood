@@ -28,3 +28,9 @@ Aplikasi ini menggunakan elemen desain khusus untuk memperkuat identitas merek s
 - **Iconography**: Penggunaan emoji bertema laut seperti 🦀, 🌊, dan 🦞.
 
 *Nikmati kelezatan laut langsung dari ponsel Anda!*
+
+<img width="1178" height="2498" alt="Screenshot_20260521_121455" src="https://github.com/user-attachments/assets/2120552c-f07b-4dfb-932e-ec2ea7ed2c52" />
+<img width="1178" height="2498" alt="Screenshot_20260521_121532" src="https://github.com/user-attachments/assets/5c736d21-c627-4530-a47b-bd50198310c7" />
+<img width="1178" height="2498" alt="Screenshot_20260521_121541" src="https://github.com/user-attachments/assets/92213bd6-565b-4927-98fc-8fe7aaf02970" />
+<img width="1178" height="2498" alt="Screenshot_20260521_121549" src="https://github.com/user-attachments/assets/b738fd7c-af24-4f07-818d-ddc813fefb54" />
+
